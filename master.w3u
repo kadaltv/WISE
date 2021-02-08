@@ -13,6 +13,12 @@
 "url": "https://raw.githubusercontent.com/kadaltv/indo/main/k1.m3u",
 "import": false
 },
+{
+"name": "WORLD SPORTS",
+"image": "https://www.img.in.th/images/d39774a03e255dd185cf60ef32489ed8.gif",
+"url": "https://raw.githubusercontent.com/thanh51/repository.thanh51/master/WiseplayTV.m3u",
+"import": false
+},
 
 ]
 }

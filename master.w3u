@@ -14,9 +14,9 @@
 "import": false
 },
 {
-"name": "WORLD SPORTS",
-"image": "https://www.img.in.th/images/d39774a03e255dd185cf60ef32489ed8.gif",
-"url": "https://raw.githubusercontent.com/thanh51/repository.thanh51/master/WiseplayTV.m3u",
+"name": "MOVIES CHANNEL",
+"image": "https://media.giphy.com/media/s1sLwutOsjPixffoWR/giphy.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/movies.m3u",
 "import": false
 },
 

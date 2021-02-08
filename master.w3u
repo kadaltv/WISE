@@ -1,17 +1,16 @@
-#BELAJAR
 
 {
 "name": "KADALTV Channel",
 "author": "By Suluk IPTV",
-"image": "https://www.img.in.th/images/7bcc0ebedf65c2f2e42d596ede6b419f.jpg",
-"url": "https://raw.githubusercontent.com/Suluk IPTV/HERO_Channel/main/Master",
+"image": "https://i.postimg.cc/3Nkf1ZSC/KADAL1.jpg",
+"url": "https://raw.githubusercontent.com/kadaltv/WISE/Suluk_IPTV/master.w3u",
 "info": "By Suluk IPTV",
 "groups": [
 
 {
-"name": "Thai Digital TV",
-"image": "https://www.img.in.th/images/e001b8b7001a07fea530745c9f5df399.gif",
-"url": "https://raw.githubusercontent.com/Suluk IPTV/HERO_Channel/main/ThaiDigitalTV",
+"name": "INDO Digital TV",
+"image": "https://media.giphy.com/media/8E1OBsivuWuoWYhDTZ/giphy.gif",
+"url": "http://iptv.urfan.web.id/",
 "import": false
 },
 {

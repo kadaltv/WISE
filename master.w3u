@@ -33,6 +33,13 @@
 "import": false
 },
 
+{
+"name": "SPORT CHANNEL",
+"image": "https://media.giphy.com/media/1EpVDY4Hh3DdnGOTaa/giphy.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/sp.w3u",
+"import": false
+},
+
 ]
 }
 

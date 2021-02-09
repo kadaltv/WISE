@@ -15,8 +15,8 @@
 },
 {
 "name": "MOVIES CHANNEL",
-"image": "https://media.giphy.com/media/s1sLwutOsjPixffoWR/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/movies.m3u",
+"image": "https://media.giphy.com/media/Ls295K3AXsxguej1Or/giphy.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/movies.w3u",
 "import": false
 },
 

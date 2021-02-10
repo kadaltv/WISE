@@ -45,6 +45,13 @@
 "import": false
 },
 
+{
+"name": "MKCTV Channel",
+"image": "https://i.gifer.com/3R2w.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/mkc.w3u",
+"import": false
+},
+
 ]
 }
 

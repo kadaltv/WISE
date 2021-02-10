@@ -51,6 +51,13 @@
 "url": "https://raw.githubusercontent.com/kadaltv/indo/main/mkc.w3u",
 "import": false
 },
+{
+"name": "FEED Channel",
+"image": "https://media.giphy.com/media/jnPK1GFNbdZU12xIOh/giphy.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/feed.w3u",
+"import": false
+},
+
 
 ]
 }

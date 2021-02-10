@@ -39,16 +39,9 @@
 },
 
 {
-"name": "CODAY TV FREE",
-"image": "https://media.giphy.com/media/SFtSNPPbzIJEkwkzo4/giphy.gif",
-"url": "http://codaytv.eu/S.m3u8",
-"import": false
-},
-
-{
-"name": "LONTONG",
-"image": "https://media.giphy.com/media/SFtSNPPbzIJEkwkzo4/giphy.gif",
-"url": "https://w3ubin.com/BJdbaH53e.w3u",
+"name": "CODAY TV Channel",
+"image": "https://i.gifer.com/3dof.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/coday.w3u",
 "import": false
 },
 

@@ -8,6 +8,12 @@
 "groups": [
 
 {
+"name": "INFO CHANNEL KADAL",  
+"image": "https://i.postimg.cc/3Nkf1ZSC/KADAL1.jpg",  
+"url": "https://www.dropbox.com/s/6lk19c123wa1nas/INTRO_KADALNEW.mp4?dl=1",
+"playInNatPlayer": "true"
+},
+{
 "name": "INDONESIA CHANNEL",
 "image": "https://media.giphy.com/media/Z3pCqhaA6RZYyg1dxH/giphy.gif",
 "url": "https://raw.githubusercontent.com/kadaltv/indo/main/k1.w3u",

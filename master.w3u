@@ -1,7 +1,7 @@
 
 {
 "name": "KADALTV Channel",
-"author": "By Suluk IPTV",
+"author": "Developer: Suluk IPTV",
 "image": "https://i.postimg.cc/3Nkf1ZSC/KADAL1.jpg",
 "url": "https://raw.githubusercontent.com/kadaltv/WISE/Suluk_IPTV/master.w3u",
 "info": "By Suluk IPTV",
@@ -17,6 +17,18 @@
 "name": "INDONESIA CHANNEL",
 "image": "https://media.giphy.com/media/Z3pCqhaA6RZYyg1dxH/giphy.gif",
 "url": "https://raw.githubusercontent.com/kadaltv/indo/main/k1.w3u",
+"import": false
+},
+{
+"name": "CODAY TV Channel",
+"image": "https://media.giphy.com/media/hDLk8TdGHezXeQDVCR/giphy.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/coday.w3u",
+"import": false
+},
+{
+"name": "MKCTV Channel",
+"image": "https://media.giphy.com/media/vmQxA0Y8WCoCz65Du2/giphy.gif",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/mkc.w3u",
 "import": false
 },
 {
@@ -41,20 +53,6 @@
 "name": "SPORT CHANNEL",
 "image": "https://media.giphy.com/media/DsulW5prhdztvL8ewK/giphy.gif",
 "url": "https://raw.githubusercontent.com/kadaltv/indo/main/sp.w3u",
-"import": false
-},
-
-{
-"name": "CODAY TV Channel",
-"image": "https://i.gifer.com/3dof.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/coday.w3u",
-"import": false
-},
-
-{
-"name": "MKCTV Channel",
-"image": "https://i.gifer.com/3R2w.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/mkc.w3u",
 "import": false
 },
 {

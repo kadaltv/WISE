@@ -7,66 +7,7 @@
 "info": "By Suluk IPTV",
 "groups": [
 
-{
-"name": "INFO CHANNEL KADAL",  
-"image": "https://media.giphy.com/media/XxHWj4rPbRCk6kShMd/giphy.gif",  
-"url": "https://www.dropbox.com/s/46wzsw3fswoy2f4/intro.m3u?dl=1",
-"playInNatPlayer": "true"
-},
-{
-"name": "JADWAL LIVE",  
-"image": "https://media.giphy.com/media/kfglrtPyYoTvpvkDpW/giphy.gif",  
-"url": "https://www.dropbox.com/s/v0uedz77drjsc5v/JADWAL%20LIVE.w3u?dl=1",
-"playInNatPlayer": "true"
-},
-{
-"name": "INDONESIA CHANNEL",
-"image": "https://media.giphy.com/media/Z3pCqhaA6RZYyg1dxH/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/k1.w3u",
-"import": false
-},
-{
-"name": "CODAY TV Channel",
-"image": "https://media.giphy.com/media/hDLk8TdGHezXeQDVCR/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/coday.w3u",
-"import": false
-},
-{
-"name": "MKCTV Channel",
-"image": "https://media.giphy.com/media/vmQxA0Y8WCoCz65Du2/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/mkc.w3u",
-"import": false
-},
-{
-"name": "MOVIES CHANNEL",
-"image": "https://media.giphy.com/media/twuZGly1fZn741J95H/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/movies.w3u",
-"import": false
-},
-{
-"name": "KADAL DISCOVERY",
-"image": "https://media.giphy.com/media/DyqH2Va6q85tZT1WVs/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/disc.w3u",
-"import": false
-},
-{
-"name": "ASTRO CHANNEL",
-"image": "https://media.giphy.com/media/Hrseu7gmlLP1v6mhsS/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/astro.w3u",
-"import": false
-},
-{
-"name": "SPORT CHANNEL",
-"image": "https://media.giphy.com/media/DsulW5prhdztvL8ewK/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/sp.w3u",
-"import": false
-},
-{
-"name": "FEED Channel",
-"image": "https://media.giphy.com/media/jnPK1GFNbdZU12xIOh/giphy.gif",
-"url": "https://raw.githubusercontent.com/kadaltv/indo/main/feed.w3u",
-"import": false
-},
+
 
 
 ]

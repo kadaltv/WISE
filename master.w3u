@@ -14,6 +14,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "JADWAL LIVE",  
+"image": "https://media.giphy.com/media/kfglrtPyYoTvpvkDpW/giphy.gif",  
+"url": "http://S.pies.rocks:8080//live/FernanSisayan/8cZk4jnB7y/795590.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "INDONESIA CHANNEL",
 "image": "https://media.giphy.com/media/Z3pCqhaA6RZYyg1dxH/giphy.gif",
 "url": "https://raw.githubusercontent.com/kadaltv/indo/main/k1.w3u",

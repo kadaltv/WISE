@@ -13,3 +13,57 @@
 ]
 }
 
+
+	    {
+		    "name": "PREMIER LEAGUE CHANNEL  (🇬🇧)  ",
+		    "image": "https://i.postimg.cc/4yCtNwm4/Pl.png",
+		    "stations": [
+
+{"name": "#EPL","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "http://techoreels.com/clip/s2.html"},
+{"name": "#EPL2","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "http://g.givemenbastreams.com/hls/nbcsn/chunks.m3u8"},
+
+{"name": "#OVO EPL 1","image": "https://api.sofascore.com/api/v1/unique-tournament/17/image","url": "http://142.93.52.239/live/ovo1/playlist.m3u8"},
+{"name": "#OVO EPL 2","image": "https://api.sofascore.com/api/v1/unique-tournament/17/image","url": "http://142.93.52.239/live/ovo2/playlist.m3u8"},
+{"name": "#OVO EPL 3","image": "https://api.sofascore.com/api/v1/unique-tournament/17/image","url": "http://142.93.52.239/live/ovo3/playlist.m3u8"},
+{"name": "#OVO EPL 4","image": "https://api.sofascore.com/api/v1/unique-tournament/17/image","url": "http://142.93.52.239/live/ovo4/playlist.m3u8"},
+{"name": "#OVO EPL 5","image": "https://api.sofascore.com/api/v1/unique-tournament/17/image","url": "http://142.93.52.239/live/ovo5/playlist.m3u8"},
+{"name": "#OVO EPL 6","image": "https://api.sofascore.com/api/v1/unique-tournament/17/image","url": "http://142.93.52.239/live/ovo6/playlist.m3u8"},
+
+{"name": "#EPL BEIN","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "http://147.50.145.234:4567/xxxx"},
+{"name": "#EPL_NBCSN HD", "image":"https://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo.jpg","url":"http://g.givemenbastreams.com/hls/nbcsn/chunks.m3u8"},
+{"name": "#EPL_BT Sport HD", "image":"https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/0/4/1296904_btsportimage2_13474.jpg",
+"url":"http://g.givemenbastreams.com/hls/btsport/chunks.m3u8"},
+{"name": "#NEW EPL 1","image": "https://dailyactive.info/wp-content/uploads/2018/07/Premier-League.jpg","url": "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8"},
+{"name": "#NEW EPL 2","image": "https://dailyactive.info/wp-content/uploads/2018/07/Premier-League.jpg","url": "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8"},
+{"name": "#EPL SKYNET", "image": "https://2.bp.blogspot.com/-M-nmvvoZ4BQ/W-ovqYaU13I/AAAAAAAAAxM/lYY2Ci2kYuMng3C2lz7SMWDkRn-GmzA5wCK4BGAYYCw/s1600/sky_net_sports_mm_hd.png",
+"url": "http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8"},
+
+{"name": "#PREMIER LEAGUE 1","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "http://liveonscore.futbol/streamepl.php"},
+{"name": "#PREMIER LEAGUE 2","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "https://c787898.com/embed.php?id=live10"},
+{"name": "#PREMIER LEAGUE 3","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "https://c787898.com/embed.php?id=live20"},
+{"name": "#EPL VIU TV","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8"},
+{"name": "#EPL VIU TV*","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8"},
+{"name": "#EPL VIU TV**","image": "https://i.postimg.cc/3rZzddKC/EPL11.jpg","url": "http://185.207.176.189:8080/channels/tv-99/playlist.m3u8"},
+
+{"name": "#LALIGA & SERIE A*","image": "https://arabi21.com/Content/Upload/large/720181215655522.jpg","url": "http://bonev2.xyz/playlist/usee-beib1-new-bonetv.m3u8"},
+{"name": "#LALIGA & SERIE A**","image": "https://arabi21.com/Content/Upload/large/720181215655522.jpg","url": "http://bonev2.xyz/playlist/usee-beib2-new-bonetv.m3u8"},
+{"name": "#BUNDESLIGA 1","image": "https://i.postimg.cc/rshhgRmB/bundesliga.jpg","url": "https://pororo.tsptv.my.id/bundesliga2/lite.m3u8"},
+{"name": "#BUNDESLIGA 2","image": "https://i.postimg.cc/rshhgRmB/bundesliga.jpg","url": "https://pororo.tsptv.my.id/bundesliga1/lite.m3u8"},
+
+{"name": "#LALIGA*","image": "https://i.postimg.cc/m2XqyJ1P/la-liga.jpg","url": "https://c787898.com/embed.php?id=live23"},
+{"name": "#LALIGA**","image": "https://i.postimg.cc/m2XqyJ1P/la-liga.jpg","url": "https://c787898.com/embed.php?id=live21"},
+{"name": "#LALIGA***","image": "https://i.postimg.cc/m2XqyJ1P/la-liga.jpg","url": "https://techoreels.com/clip/3.html"},
+{"name": "#SERIE A","image": "https://i.postimg.cc/NfkGGgnW/Serie-A.jpg","url": "https://techoreels.com/clip/1.html"},
+
+
+{"name": "#LALIGA","image": "https://i.postimg.cc/m2XqyJ1P/la-liga.jpg","url": "http://liveonscore.futbol/streamlaliga.php"},
+{"name": "#SERIE A","image": "https://i.postimg.cc/NfkGGgnW/Serie-A.jpg","url": "http://liveonscore.futbol/streamseriea.php"},
+{"name": "#BUNDESLIGA","image": "https://i.postimg.cc/rshhgRmB/bundesliga.jpg","url": "http://liveonscore.futbol/streambundesliga.php"},
+{"name": "#LIGUE 1","image": "https://i.postimg.cc/PNGs3410/ligue1.jpg","url": "http://liveonscore.futbol/streamligue1.php"},
+{
+"name": "NBCSN🇺🇸",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-J9sgeug1CayZbuz901kOvkzG6Eezeixsw&usqp=CAU",
+"url": "https://daddylive.co/channels/stream-43.php",
+"referer": "https://www.streamlive.to/channel-player?n=94794",
+"embed": false
+},

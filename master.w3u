@@ -8,13 +8,7 @@
 "groups": [
 
 
-
-
-]
-}
-
-
-	    {
+    {
 		    "name": "PREMIER LEAGUE CHANNEL  (🇬🇧)  ",
 		    "image": "https://i.postimg.cc/4yCtNwm4/Pl.png",
 		    "stations": [
@@ -66,4 +60,6 @@
 "url": "https://daddylive.co/channels/stream-43.php",
 "referer": "https://www.streamlive.to/channel-player?n=94794",
 "embed": false
-},
+}
+]
+}
